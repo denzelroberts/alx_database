@@ -1,1 +1,2 @@
+/*showdatabase*/
 SHOW DATABASES;
