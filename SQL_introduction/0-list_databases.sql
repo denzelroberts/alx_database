@@ -1,2 +1,2 @@
-/*showdatabase*/
+-- show database 
 SHOW DATABASES;
